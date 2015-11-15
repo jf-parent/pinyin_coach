@@ -1,0 +1,6 @@
+Pinyin_Coach.egg-info/PKG-INFO
+Pinyin_Coach.egg-info/SOURCES.txt
+Pinyin_Coach.egg-info/dependency_links.txt
+Pinyin_Coach.egg-info/entry_points.txt
+Pinyin_Coach.egg-info/requires.txt
+Pinyin_Coach.egg-info/top_level.txt
